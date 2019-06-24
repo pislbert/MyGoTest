@@ -1,0 +1,3 @@
+github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826/go.mod h1:TaXosZuwdSHYgviHp1DAtfrULt5eUgsSMsZf+YrPgl8=
+github.com/pislbert/MyGoUtil v0.0.0-20190307040828-c598e6772bf9 h1:d89FZGMyqVQkYUq5S2UER2zugkSHjj4nm73rs8fxNnc=
+github.com/pislbert/MyGoUtil v0.0.0-20190307040828-c598e6772bf9/go.mod h1:pE5Iwr1plh8K78Xh60sQiISAB3eNlWG7NUnXGq7YgtI=

@@ -1,0 +1,2 @@
+# github.com/pislbert/MyGoUtil v0.0.0-20190307040828-c598e6772bf9
+github.com/pislbert/MyGoUtil/pt
